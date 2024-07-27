@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 h1{color: blue;
 font-size: larger;
 font-family:'Times New Roman', Times, sans-serif;}
-=======
 h1,h2{
     color: blue;
     font-family: sans-serif;
@@ -12,4 +10,3 @@ h2{
     color: brown;
     background: purple;
 }
->>>>>>> style2.css
