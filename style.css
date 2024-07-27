@@ -1,5 +1,4 @@
 h1{color: blue;
-<<<<<<< HEAD
 font-size: larger;
 font-family:'Times New Roman', Times, sans-serif;}
 h1,h2{
@@ -12,11 +11,8 @@ h2{
     background: purple;
     text-align: center;
 }
-=======
-font-size: 2em;
-font-family:sans-serif;}
+
 a{
     font-size: 1.5em;
     text-decoration: none;
 }
->>>>>>> cagnotte
